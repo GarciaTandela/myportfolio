@@ -1,0 +1,27 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Yannick Silva Personal Portfolio",
+  "author": "Yannick Silva",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@inkline/inkline": "^1.18.2",
+    "@neneos/nuxt-animate.css": "0.0.1",
+    "@nuxtjs/axios": "^5.3.6",
+    "aos": "^3.0.0-beta.6",
+    "element-ui": "^2.13.0",
+    "hover.css": "^2.3.2",
+    "nuxt": "^2.0.0",
+    "nuxt-compress": "^1.1.0",
+    "nuxt-i18n": "^6.5.0",
+    "nuxt-lazy-load": "^1.0.9",
+    "vue-scrollto": "^2.17.1"
+  },
+  "devDependencies": {}
+}
