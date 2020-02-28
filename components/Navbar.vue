@@ -60,7 +60,7 @@ export default
 
 <style scoped>
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
+
 .logo{
     font-family: 'Amatic SC', cursive;
     font-size: 25px !important;

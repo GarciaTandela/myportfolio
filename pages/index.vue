@@ -36,6 +36,3 @@ export default
 <style>
 </style>
 
-  function newFunction() {
-    AOS.init()
-  }
