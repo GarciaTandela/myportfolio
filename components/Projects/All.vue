@@ -20,7 +20,7 @@
                         </p>
                         <!-- Links -->
                         <i-layout-content class="_display-flex _justify-content-xl-space-around">
-                            <a class="link _text-decoration-none" href="https://yannicksilva.netlify.com/">{{ $t('Portfolio.Demo') }}</a>
+                            <a class="link _text-decoration-none" href="https://yannicksilva.herokuapp.com/">{{ $t('Portfolio.Demo') }}</a>
                             <a class="link _text-decoration-none" href="https://github.com/YannickSilva/myportfolio" target="_blank">{{ $t('Portfolio.Source') }}</a>
                         </i-layout-content>
                         <!-- ====== -->
