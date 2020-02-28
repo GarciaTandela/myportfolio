@@ -68,7 +68,8 @@ export default
 
 
 *{
-  font-family: 'Arapey', serif;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px !important;
 }
 
 .hover:hover{
