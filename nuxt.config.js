@@ -12,6 +12,7 @@ export default {
     title: 'Yannick Silva | FullStack Developer',
     meta: [
       { charset: 'utf-8' },
+      {'http-equiv': 'X-UA-Compatible', content: 'IE=edge'},
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Yannick Silva | FullStack Developer Portfolio including frontend, backend and database projects for service request or hire' },
       { name: 'author', content: 'Yannick Silva' },
@@ -24,7 +25,8 @@ export default {
       { name:'rating', content:'General'}
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon1.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon1.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Amatic+SC&display=swap'}
     ]
   },
   /*
