@@ -4,7 +4,7 @@
         <i-navbar size="lg" variant="light">
             <i-navbar-brand class="_justify-content-center logo">
                 <img src="~assets/Logo.png" width="25" class="image -responsive" alt="Portfolio Logo">
-                <h6 class="logow">Yannick Silva</h6>
+                Yannick Silva
             </i-navbar-brand>
 
             <i-navbar-items class="_justify-content-end">
@@ -60,16 +60,16 @@ export default
 </script>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
-.logow{
-    font-size: 25px !important;
+.logo{
+    font-family: 'Indie Flower';
+    font-size: 23px !important;
 }
 
 
 *{
-    font-family: 'Amatic SC', cursive;
-    font-size: 25px !important;
+  font-family: 'Arapey', serif;
 }
 
 .hover:hover{
