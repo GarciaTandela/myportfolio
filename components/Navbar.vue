@@ -59,11 +59,11 @@ export default
 </script>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
 .logo{
-    font-family: 'Indie Flower';
-    font-size: 23px !important;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px !important;
 }
 
 
