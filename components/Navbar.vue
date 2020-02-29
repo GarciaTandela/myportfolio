@@ -64,7 +64,7 @@ export default
 @import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
 .logo{
     font-family: 'Amatic SC', cursive;
-    font-size: 25px !important;
+    font-size: 22px !important;
 }
 
 
