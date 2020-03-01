@@ -11,7 +11,7 @@
                 data-aos-duration="3000" data-aos-delay="30"
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
-                data-aos-once="false">
+                data-aos-once="true">
                     <i-card size="sm" variant="light">
                         <img slot="image" data-src="~assets/portfolio.png" alt="My Portfolio Image" v-lazy-load/>
                         <h4 class="title _text-center">{{ $t('Portfolio.MyPortfolio.Title') }}</h4>
@@ -60,7 +60,7 @@
                 data-aos-duration="3000" data-aos-delay="30"
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
-                data-aos-once="false">
+                data-aos-once="true">
                     <i-card size="sm" variant="light">
                         <img slot="image" data-src="~assets/paradisehotel.png" alt="Hotel Image" v-lazy-load/>
                         <h4 class="title _text-center">{{ $t('Portfolio.Hotel.Title') }}</h4>
@@ -101,7 +101,7 @@
                 data-aos-duration="3000" data-aos-delay="30"
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
-                data-aos-once="false">
+                data-aos-once="true">
                     <i-card size="sm" variant="light">
                         <img slot="image" data-src="~assets/sketch.png" alt="Wireframe Image" v-lazy-load/>
                         <h4 class="title _text-center">{{ $t('Portfolio.Sketch.Title') }}</h4>
@@ -138,7 +138,7 @@
                 data-aos-duration="3000" data-aos-delay="30"
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
-                data-aos-once="false">
+                data-aos-once="true">
                     <i-card size="sm" variant="light">
                         <img slot="image" data-src="~assets/university.png" alt="Card Image" v-lazy-load/>
                         <h4 class="title _text-center">{{ $t('Portfolio.University.Title') }}</h4>
@@ -191,7 +191,7 @@
                 data-aos-duration="3000" data-aos-delay="30"
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
-                data-aos-once="false">
+                data-aos-once="true">
                     <i-card size="sm" variant="light">
                         <img slot="image" data-src="~assets/artfactory.png" alt="ArtFactor Image" v-lazy-load/>
                         <h4 class="title _text-center">{{ $t('Portfolio.Art.Title') }}</h4>
@@ -235,7 +235,7 @@
                 data-aos-duration="3000" data-aos-delay="30"
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
-                data-aos-once="false">
+                data-aos-once="true">
                     <i-card size="sm" variant="light">
                         <img slot="image" data-src="~assets/feed.png" alt="FeedNews Image" v-lazy-load/>
                         <h4 class="title _text-center">{{ $t('Portfolio.Feed.Title') }}</h4>

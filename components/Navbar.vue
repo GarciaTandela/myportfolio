@@ -1,7 +1,7 @@
 <template>
     <i-layout>
         <!-- Header com navbar -->
-        <i-navbar size="lg" variant="light">
+        <i-navbar size="sm" variant="light">
             <i-navbar-brand class="_justify-content-center logo">
                 <img src="~assets/Logo.png" width="25" class="image -responsive" alt="Portfolio Logo">
                 Yannick Silva

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-loading="loading">
     <Header></Header>
     <Person></Person>
     <Services></Services>

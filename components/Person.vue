@@ -10,15 +10,15 @@
                     data-aos="fade-up"
                     data-aos-delay="50"
                     data-aos-duration="1000"
-                    data-aos-easing="ease-in-out"
+                    data-aos-easing="ease-in"
                     data-aos-mirror="true"
-                    data-aos-once="false">
+                    data-aos-once="true">
                         <i-layout-content class="">
                             <h3 class="_text-center">{{ $t('Person.Title') }}</h3>
                         </i-layout-content>
                         <i-layout-content>
                             <div class="_text-center">
-                                <img data-src="~assets/profile.jpg" width="100" class="image -responsive _border _border-color-gray-60 _rounded-circle" alt="Owner Image" v-lazy-load>
+                                <img data-src="~assets/profile.jpg" width="130" class="image -responsive _border _border-color-gray-60 _rounded-circle" alt="Owner Image" v-lazy-load>
                             </div>
                         </i-layout-content>
                         <i-layout-content class="animated">
@@ -45,8 +45,9 @@ export default
 
 <style scoped>
 @import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
-img{
-    height: 100px !important;
+img {
+  height: 130px !important;
+  object-fit: cover;
 }
 
 *{

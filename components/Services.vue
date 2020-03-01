@@ -23,7 +23,7 @@
                             data-aos-duration="3000" data-aos-delay="30"
                             data-aos-easing="ease-in-out"
                             data-aos-mirror="true"
-                            data-aos-once="false">
+                            data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
                                     <i-card size="md">
                                         <img class="web" slot="image" data-src="~assets/web.png" alt="Web Dev Image" v-lazy-load/>
@@ -40,7 +40,7 @@
                             data-aos-duration="3000" data-aos-delay="30"
                             data-aos-easing="ease-in-out"
                             data-aos-mirror="true"
-                            data-aos-once="false">
+                            data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
                                     <i-card size="md">
                                         <img class="mobile" slot="image" data-src="~assets/mobile.png" alt="Mobile Dev Image" v-lazy-load/>
@@ -57,7 +57,7 @@
                             data-aos-duration="3000" data-aos-delay="30"
                             data-aos-easing="ease-in-out"
                             data-aos-mirror="true"
-                            data-aos-once="false">
+                            data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
                                     <i-card size="md">
                                         <img class="desktop" slot="image" data-src="~assets/desktop.jpg" alt="Desktop Dev Image" v-lazy-load/>
