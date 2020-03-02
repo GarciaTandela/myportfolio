@@ -9,7 +9,6 @@
                 <i-layout-content class="_display-flex _justify-content-center"
                 data-aos="fade-right"
                 data-aos-duration="3000" data-aos-delay="30"
-                data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
                 data-aos-once="true">
                     <i-card size="sm" variant="light">
@@ -58,7 +57,6 @@
                 <i-layout-content class="_display-flex _justify-content-center"
                 data-aos="fade-right"
                 data-aos-duration="3000" data-aos-delay="30"
-                data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
                 data-aos-once="true">
                     <i-card size="sm" variant="light">
@@ -99,7 +97,6 @@
                 <i-layout-content class="_display-flex _justify-content-center"
                 data-aos="fade-right"
                 data-aos-duration="3000" data-aos-delay="30"
-                data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
                 data-aos-once="true">
                     <i-card size="sm" variant="light">
@@ -136,7 +133,6 @@
                 <i-layout-content class="_display-flex _justify-content-center"
                 data-aos="fade-right"
                 data-aos-duration="3000" data-aos-delay="30"
-                data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
                 data-aos-once="true">
                     <i-card size="sm" variant="light">
@@ -189,7 +185,6 @@
                 <i-layout-content class="_display-flex _justify-content-center"
                 data-aos="fade-right"
                 data-aos-duration="3000" data-aos-delay="30"
-                data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
                 data-aos-once="true">
                     <i-card size="sm" variant="light">
@@ -233,7 +228,6 @@
                 <i-layout-content class="_display-flex _justify-content-center"
                 data-aos="fade-right"
                 data-aos-duration="3000" data-aos-delay="30"
-                data-aos-easing="ease-in-out"
                 data-aos-mirror="true"
                 data-aos-once="true">
                     <i-card size="sm" variant="light">

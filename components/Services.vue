@@ -21,7 +21,6 @@
                             <i-column class="_margin-bottom-xs-2 _margin-bottom-sm-2 _margin-bottom-md-2" xs="12" sm="12" md="12" lg="4" 
                             data-aos="fade-right"
                             data-aos-duration="3000" data-aos-delay="30"
-                            data-aos-easing="ease-in-out"
                             data-aos-mirror="true"
                             data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
@@ -38,7 +37,6 @@
                             <i-column class="_margin-bottom-xs-2 _margin-bottom-sm-2 _margin-bottom-md-2" xs="12" sm="12" md="12" lg="4"
                             data-aos="fade-right"
                             data-aos-duration="3000" data-aos-delay="30"
-                            data-aos-easing="ease-in-out"
                             data-aos-mirror="true"
                             data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
@@ -55,7 +53,6 @@
                             <i-column xs="12" sm="12" md="12" lg="4"
                             data-aos="fade-right"
                             data-aos-duration="3000" data-aos-delay="30"
-                            data-aos-easing="ease-in-out"
                             data-aos-mirror="true"
                             data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
