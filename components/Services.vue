@@ -57,7 +57,7 @@
                             data-aos-once="true">
                                 <i-layout-content class="hvr-bob ">
                                     <i-card size="md">
-                                        <img class="desktop" slot="image" data-src="~assets/desktop.jpg" alt="Desktop Dev Image" v-lazy-load/>
+                                        <img class="desktop" slot="image" data-src="~assets/desktop2.svg" alt="Desktop Dev Image" v-lazy-load/>
                                         <h4 class="title _text-center">{{ $t('Services.Desktop.Title') }}</h4>
                                         <p class="_text-justify">
                                             {{ $t('Services.Desktop.Description') }}

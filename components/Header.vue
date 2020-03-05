@@ -29,4 +29,8 @@ export default
 *{
   font-family: 'Arapey', serif;
 }
+
+p{
+    font-size: 1.3em;
+}
 </style>

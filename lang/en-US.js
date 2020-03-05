@@ -29,7 +29,7 @@ export default {
     Person:
     {
         Title:'Who Am I ?',
-        Description:'Hello, my name is Yannick Silva, I am an IT Management student attending my senior year at the university and a FullStack developer who works as a freelancer. I love to program, face new challenges and develop solutions to help the world improve through digital transformation.'
+        Description:'Hello, my name is Yannick Silva, I am an IT Management student attending my senior year at the Gregorio Semedo University and a FullStack developer who works as a freelancer. I love to program, face new challenges and develop solutions to help the world improve through digital transformation.'
     },
 
     Services:

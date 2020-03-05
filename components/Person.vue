@@ -1,7 +1,7 @@
 <template>
     <i-layout id="person">
 
-        <i-layout-content class="_background-white _padding-top-4 _padding-bottom-6">
+        <i-layout-content class="_background-white _padding-top-3 _padding-bottom-5">
 
             <i-container>
                 <i-row>

@@ -43,7 +43,7 @@
             <i-column xs="4" class="hvr-hang">
 
                 <i-layout-content class="_display-flex _justify-content-center">
-                    <img data-src="https://images.opencollective.com/airbnb/d327d66/logo.png" class="image -responsive nuxt" alt="Jest Image" v-lazy-load>
+                    <img data-src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/landscape/jestlogo.png" class="image -responsive nuxt" alt="Jest Image" v-lazy-load>
                 </i-layout-content>
 
                 <i-layout-content class="_display-flex _justify-content-center">

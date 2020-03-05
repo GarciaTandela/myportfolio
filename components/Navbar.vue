@@ -3,7 +3,7 @@
         <!-- Header com navbar -->
         <i-navbar size="sm" variant="light">
             <i-navbar-brand class="_justify-content-center logo">
-                <img src="~assets/Logo.png" width="25" class="image -responsive" alt="Portfolio Logo">
+                <img src="~assets/Logo.png" width="25" class="image -responsive">
                 Yannick Silva
             </i-navbar-brand>
 

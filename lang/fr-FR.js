@@ -29,7 +29,7 @@ export default {
     Person:
     {
         Title:'Qui suis-je ?',
-        Description:"Bonjour, je m'appelle Yannick Silva, je suis un étudiant en informatique de gestion fréquentant la dernière année à l'université et développeur FullStack qui travaille en tant que pigiste. J'adore programmer, relever de nouveaux défis et développer des solutions pour aider le monde à s'améliorer grâce à la transformation numérique."
+        Description:"Bonjour, je m'appelle Yannick Silva, je suis un étudiant en informatique de gestion fréquentant l'année dernière à l'Université Gregório Semedo et je suis un développeur FullStack qui travaille en tant que pigiste. J'adore programmer, relever de nouveaux défis et développer des solutions pour aider le monde à s'améliorer grâce à la transformation numérique."
     },
 
     Services:
@@ -112,7 +112,7 @@ export default {
         Title:'Contactez nous',
         Description1:"Vous souhaitez m'engager, parler d'un projet ou solliciter l'un de mes services? N'hésitez pas à me contacter via le formulaire ci-dessous:",
         Description2:'ou utilisez certains de mes médias sociaux dans le pied de page:',
-        PlaceholderNome:'Entrez votre nom ou nom de société',
+        PlaceholderNome:'Entrez votre nom de société',
         PlaceholderEmail:'Insira o seu email',
         PlaceholderMessage:'Entrez votre email',
         Button:'ENVOYER'

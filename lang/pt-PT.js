@@ -29,7 +29,7 @@ export default {
     Person:
     {
         Title:'Quem eu sou ?',
-        Description:'Olá, meu nome é Yannick Silva, sou um estudante de Informática de Gestão frequentando o último ano na universidade e desenvolvedor FullStack que trabalha como freelancer. Adoro programar, enfrentar novos desafios e desenvolver soluções para ajudar o mundo a melhorar através da transformação digital.'
+        Description:'Olá, meu nome é Yannick Silva, sou um estudante de Informática de Gestão frequentando o último ano na Universidade Gregório Semedo e um desenvolvedor FullStack que trabalha como freelancer. Adoro programar, enfrentar novos desafios e desenvolver soluções para ajudar o mundo a melhorar através da transformação digital.'
     },
 
     Services:
@@ -112,7 +112,7 @@ export default {
         Title:'Contacto',
         Description1:'Quer contratar-me, falar sobre um projeto ou solicitar um dos meus serviços? Não hesite em contactar-me através do formulário abaixo:',
         Description2:'ou use algumas das minhas mídias sociais no rodapé:',
-        PlaceholderNome:'Insira o seu nome ou nome da empresa',
+        PlaceholderNome:'Insira o nome da empresa',
         PlaceholderEmail:'Insira o seu email',
         PlaceholderMessage:'Escreva a sua mensagem',
         Button:'Enviar'

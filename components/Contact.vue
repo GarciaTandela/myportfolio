@@ -7,15 +7,11 @@
             <i-container>
                 <i-row>
 
-                    <i-column xs="12">
-                            
+                    <i-column xs="12" lg="6" class="_margin-x-auto">
+
                         <i-layout-content>
                             <h3 class="_text-center">{{$t('Contact.Title')}}</h3>
                         </i-layout-content>
-                
-                    </i-column>
-
-                    <i-column xs="12" lg="6" class="_margin-x-auto">
                             
                         <i-layout-content>
                                     
@@ -152,5 +148,9 @@ export default
 
 *{
   font-family: 'Arapey', serif;
+}
+
+p{
+    font-size: 1.3em;
 }
 </style>
