@@ -112,7 +112,7 @@ export default {
         Title:'Contact',
         Description1:'Do you want to hire me, talk about a project or request one of my services? Do not hesitate to contact me using the form below:',
         Description2:'or use some of my social media in the footer:',
-        PlaceholderNome:'Enter your name or company name',
+        PlaceholderNome:'Enter your company name',
         PlaceholderEmail:'Enter your email',
         PlaceholderMessage:'Your message',
         Button:'Send'
