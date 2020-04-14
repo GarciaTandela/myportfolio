@@ -179,50 +179,6 @@
             </i-column>
             <!-- ================= -->
 
-            <!-- Art Factor -->
-            <i-column xs="12" lg="4" class="hvr-bob _padding-top-2">
-
-                <i-layout-content class="_display-flex _justify-content-center"
-                data-aos="fade-right"
-                data-aos-duration="3000" data-aos-delay="30"
-                data-aos-mirror="true"
-                data-aos-once="true">
-                    <i-card size="sm" variant="light">
-                        <img slot="image" data-src="~assets/artfactory.png" alt="ArtFactor Image" v-lazy-load/>
-                        <h4 class="title _text-center">{{ $t('Portfolio.Art.Title') }}</h4>
-                        <p class="_text-justify _text-center-xs  _text-center-sm  _text-center-md">
-                            {{ $t('Portfolio.Art.Description') }}
-                        </p>
-                        <!-- Links -->
-                        <i-layout-content class="_display-flex _justify-content-xl-space-around">
-                            <a class="link _text-decoration-none" href="https://artfactor.netlify.com/" target="_blank">{{ $t('Portfolio.Demo') }}</a>
-                            <a class="link _text-decoration-none" href="https://github.com/YannickSilva/artfactory" target="_blank">{{ $t('Portfolio.Source') }}</a>
-                        </i-layout-content>
-                        <!-- ====== -->
-                        <template slot="footer">
-                            <i-layout-content class="_display-flex _justify-content-center">
-                                <!-- Tooltip -->
-                                <i-tooltip placement="bottom" size="sm">
-                                    <img data-src="https://img.icons8.com/color/28/000000/html-5.png" class="image -responsive" alt="HTML Image" v-lazy-load>
-                                    <template slot="body">HTML</template>
-                                </i-tooltip>
-                                <i-tooltip placement="bottom" size="sm">
-                                    <img data-src="https://img.icons8.com/color/28/000000/css3.png" class="image -responsive" alt="CSS Image" v-lazy-load>
-                                    <template slot="body">CSS</template>
-                                </i-tooltip>
-                                <i-tooltip placement="bottom" size="sm">
-                                    <img data-src="https://img.icons8.com/color/28/000000/javascript.png" class="image -responsive" alt="Javascript Image" v-lazy-load>
-                                    <template slot="body">Javascript</template>
-                                </i-tooltip>
-                                <!-- ======== -->
-                            </i-layout-content>
-                        </template>
-                    </i-card>
-                </i-layout-content>
-
-            </i-column>
-            <!-- ================ -->
-        
             <!-- Feed News -->
             <i-column xs="12" lg="4" class="hvr-bob _padding-top-2">
                 <i-layout-content class="_display-flex _justify-content-center"

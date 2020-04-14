@@ -93,12 +93,6 @@ export default {
             Description:'Institutional website for my university containing information about it.'
         },
 
-        Art:
-        {
-            Title:'Art Factory',
-            Description:'Art Factory is digital company that create solution for Web Design.'
-        },
-
         Feed:
         {
             Title:'Feed News',

@@ -93,12 +93,6 @@ export default {
             Description:"Site institutionnel de mon université contenant des informations à ce sujet."
         },
 
-        Art:
-        {
-            Title:'Art Factory',
-            Description:'Art Factory est une entreprise numérique qui a créé une solution pour la conception Web.'
-        },
-
         Feed:
         {
             Title:'Feed News',
