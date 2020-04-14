@@ -1,6 +1,8 @@
 # portfolioinkline
 
-> My exquisite Nuxt.js project
+My Personal Portfolio with a list of projects created by me and some information about myself  
+
+Created with HTML+CSS+Vue JS and Nuxt JS
 
 ## Build Setup
 
